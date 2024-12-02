@@ -9,6 +9,7 @@ This is a MVC architecture based application where controller returns a page wit
 Checkout the repo and move to the directory
 
 (https://github.com/rajeshvankireddy/spring-boot.git)
+
 cd java-maven-sonar-argocd-helm-k8s/sprint-boot-app
 ```
 
