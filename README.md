@@ -11,7 +11,7 @@ Checkout the repo and move to the directory
 
 ```
 (https://github.com/rajeshvankireddy/spring-boot.git)
-cd java-maven-sonar-argocd-helm-k8s/sprint-boot-app
+cd spring-boot-java-maven-sonar-argocd-k8s/spring-boot-app
 
 Execute the Maven targets to generate the artifacts
 
